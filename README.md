@@ -1,2 +1,2 @@
 # SafetyBook
-Excel 2003
+Darbo Saugos zurnalas (Excel 2003)
